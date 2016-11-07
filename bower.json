@@ -1,0 +1,18 @@
+{
+  "name": "webappo7",
+  "authors": [
+    "George Tintareanu <george.tintareanu@devpadawan.ro>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
